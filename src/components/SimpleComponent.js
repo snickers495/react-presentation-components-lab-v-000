@@ -1,2 +1,2 @@
 // Code SimpleComponentHere Here
-import 
+import React, {Component} from 'react'
