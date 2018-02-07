@@ -7,4 +7,5 @@ export default class SimpleComponent extends Component {
       mood: 'happy'
     }
   }
+  render(){}
 }
