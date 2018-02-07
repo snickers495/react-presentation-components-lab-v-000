@@ -8,7 +8,7 @@ export default class SimpleComponent extends Component {
     }
   }
   handleClick = (){
-    this.se
+    this.s
   }
   render(){
     return(
