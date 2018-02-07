@@ -6,6 +6,5 @@ export default class SimpleComponent extends Component {
     this.state = {
       mood: 'happy'
     }
-    
   }
 }
