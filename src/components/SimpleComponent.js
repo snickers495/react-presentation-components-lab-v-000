@@ -7,7 +7,9 @@ export default class SimpleComponent extends Component {
       mood: 'happy'
     }
   }
-  handleClick = ()
+  handleClick = (){
+    
+  }
   render(){
     return(
       <div onClick={this.handleClick}>
